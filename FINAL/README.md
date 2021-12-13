@@ -1,3 +1,5 @@
+#Photon Detection
+
 This is the folder for my final project 
 
 For this task, my advisor assigned three individual steps to help me 
