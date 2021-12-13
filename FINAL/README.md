@@ -14,3 +14,10 @@ Expected Simulinnk Output:
 STEP 2: Use the counter established in Step 1, and toggle one of the LED outputs at a consistent frequency. 
 - This folder contains one vhd files and one constraints file
 
+Expected Board Output: 
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/33561389/145823100-0757da35-a5aa-4ad7-be62-95765b6cdace.gif)
+
+Thank you for viewing my Final Project!
+
+Please contact me with any questions at rachaelikondrat@gmail.com
