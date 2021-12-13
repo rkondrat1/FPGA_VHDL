@@ -2,7 +2,7 @@
 
 This is the folder for my final project 
 
-For this task, there were assigned three individual steps to help 
+For this task, three individual steps were assigned to help 
 become more accustomed to the programming language, and how to work with the [ZedBoard](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/). Currently, the first two steps are completed and the last one is still in the making. 
 
 ## STEP 1: Create a counter in Vivado utilizing VHDL and see the results in Simulink
